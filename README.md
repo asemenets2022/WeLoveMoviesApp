@@ -19,3 +19,13 @@ This project is engineered to perform CRUD operations allowing users to access d
 * /movies/:movieId/reviews
 * /theaters
 * /reviews [PUT/DELETE]
+
+# Deployed backend link
+
+https://agile-spire-58550.herokuapp.com/movies
+
+# Deployed frontend link
+
+https://obscure-reaches-40128.herokuapp.com/
+
+
